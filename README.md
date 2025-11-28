@@ -1,3 +1,8 @@
+*Aqui você pode testar minha solução no Codepen:*
+
+https://codepen.io/git-cadu/pen/LENNmWP
+
+
 # Sidebar Fixa com CSS Puro
 
 Um estudo de caso para criar uma barra lateral (sidebar) fixa e responsiva, garantindo que o conteúdo principal corra ao seu lado, utilizando apenas HTML e CSS.
@@ -44,4 +49,5 @@ Para corrigir a sobreposição do menu com o conteúdo só precisei pegar a larg
 	.conteudo{ 
 		margin-left: 20vw;
 		width: auto;
+
 ```
