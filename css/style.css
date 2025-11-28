@@ -1,0 +1,47 @@
+/* Reset */
+body, h1 , h3, p, a, li {
+    margin: 0;
+}
+
+
+/* Posição da sidebar */
+
+.sidebar {
+    position: fixed;
+    width: 20vw;
+    top: 0;
+    left: 0;
+    height: 100vh;
+
+    padding: 40px 0 0 0;
+    background-color: gray;
+}
+
+.menu {
+    justify-self: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilização dos elementos do menu */
+
+.botao-menu {
+    font-weight: 600;
+    list-style: none;
+}
+
+.botao-menu a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+/* Posição do conteudo */
+
+.conteudo {
+    margin-left: 20vw;
+    padding: 40px;
+    
+    width: auto;
+    height: 2000px; /* Simulação de conteudo de um site */
+}
